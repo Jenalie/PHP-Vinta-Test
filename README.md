@@ -14,7 +14,7 @@ This simple application works, but with very old-style monolithic codebase, so d
   - easier to work with
   - more maintainable
 
-  ## 2. Output
+  ## 3. Output
 
 Working functionalities:
 
