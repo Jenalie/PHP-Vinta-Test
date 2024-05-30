@@ -1,0 +1,9 @@
+{
+    "require": {
+        "twig/twig": "^3.9"
+    },
+    "config": {
+
+        "platform-check": false
+    }
+}
