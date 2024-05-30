@@ -22,12 +22,13 @@ Working functionalities:
   - Deletion of news and comments records.
   - Adding of new records for news and comments.
   
-Added templates and files:
+Added templates/files/folders:
 
 - Twig template for views (installed using composer)
 - composer files (.json, .lock, vendor)
 - Controllers.php for AJAX requests.
 - js/main.js for delete and add ajax requests.
+- screenshots (contains all screenshots of the result)
 
 Altered files:
 
